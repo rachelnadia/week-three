@@ -23,4 +23,8 @@
 
 - I got my results after merging and re-clustering senders down to 157
 
-- 
+![image i just uploaded](evidence2.png)
+
+- I got my results after merging and re-clustering recipients down to 159
+
+![image i just uploaded](evidence3.png)
