@@ -17,3 +17,8 @@
 
 ![image i just uploaded](evidence1.png)
 
+## Open Refine
+
+- I got my results after merging and re-clustering senders down to 157
+
+- 
