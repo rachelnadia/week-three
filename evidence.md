@@ -28,3 +28,9 @@
 - I got my results after merging and re-clustering recipients down to 159
 
 ![image i just uploaded](evidence3.png)
+
+## Databasic.io
+
+- I keep getting an Internal Error whenever I try to upload my file
+
+![image i just uploaded](help3.png)
