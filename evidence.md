@@ -1,1 +1,1 @@
-
+- not entirely sure why but replacing \n[^~.+] with \n only took away some of the material that wasn't letters. I had to run it a second time for them all to be gone
