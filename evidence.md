@@ -5,4 +5,4 @@
 ![image i just uploaded](fix2.jpg)
 ![image i just uploaded](fix1.jpg)
 
-    - I could tell there was a 'to' in the line and therefore ould be considered a letter; however, there was a typo in spacing that didn't allow for this 'to' to come up as a search result. Thus, I fixed it manually.
+   - I could tell there was a 'to' in the line and therefore ould be considered a letter; however, there was a typo in spacing that didn't allow for this 'to' to come up as a search result. Thus, I fixed it manually.
