@@ -1,10 +1,8 @@
 # Notes for Week Three
 
-- I remember using ArcGIS in grade 9 geography for an assignment
-
 - the 'soft' history refers to the visual results of the data analysis
 
-- the 'hard' hitory is the analytical thinking of what this means
+- the 'hard' history is the analytical thinking of what this means
 
 - the addition of layers int he visuals - in this case the stationers - allows for a better visualization of patterns
 
