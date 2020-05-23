@@ -17,3 +17,14 @@ For example, I found a line in the document of a letter from Lord Clarendon to G
 ![image i just uploaded](fix2.jpg)
 ![image i just uploaded](fix1.jpg)
 
+I made more assumptions while using Open Refine to cluster the senders and recipients. It was evident that there were some typs in the data and therefore grouping of names was possible in the assumption that it was the same person. But we don't know for sure it is the same person. In addition, there could be groupings that I overlooked.
+
+But as Barker comments, this process is integral to the flow of thinking of the historian. It does not really matter whether I missed a grouping or made a false grouping, if I a not making a direct argument in regards to it. 
+
+As for the "hard history" - as Barker refers to the material that made it into his book - this is where the historian's agency comes into play. This is about the argument that the individual historian wants to convey, and the material that supports this argument. Thus, one could say that there is a bit of bias in terms of the history that makes it into the final product. This is technically not wrong, but I see it as more of an act of historical agency. 
+
+However, there could be some value to publishing this so called "soft history". While it might not be directly related to the argument we come back to Barker's comment that the "soft history" helps the historian through their thinking. If these thought patterns are made known to the public, the final work might have a greater effect. 
+
+From a scholarly standpoint, showing your work not only helps prove your point but it shows that you understand the process. Digital history is not easy. This week I had many struggles using REGEX and various networks. As I worked through each activity, I began to get the hang of the various programs (except Gephi would not open for me - it said I did not have a Java script but I made sure Java was downloaded and that I had the newest version running). Even though I started to get the hang of how to do the work, if I am being completely honest I still am struggling to understand the final product. 
+
+Looking at the visualizations that I created in RStudio I have no clue what I am looking at. I am still working through understanding how a simple chart of senders and receivers has created such a complex plot. What I do understand is that little changes in the data can cause large changes in the plot. This comes back to the point about making assumptions.
