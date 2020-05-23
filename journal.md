@@ -6,4 +6,8 @@ Performing this "soft history" is an integral part of the digital history proces
 
 Barker created two visualizations which I will show below. In the one the blue dots representing the stationers are everywhere. Barker commentd what he noticed "was that I could not see any patterns because the stationers dominated the visual field." Using different variations and visualization techniques allow different patterns to appear. Without the starioners, Barker was able to identify a relationship. 
 
+![image i just uploaded](Barker1.2.png)
+
+- The image on the left is without the stationers. THe image on the right shows the stationers in blue.
+
 But the processes of "soft history" begin way before this. Using REGEX in Sublime and Open Refine, I went through and tidied up the data.  
