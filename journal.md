@@ -28,3 +28,7 @@ However, there could be some value to publishing this so called "soft history". 
 From a scholarly standpoint, showing your work not only helps prove your point but it shows that you understand the process. Digital history is not easy. This week I had many struggles using REGEX and various networks. As I worked through each activity, I began to get the hang of the various programs (except Gephi would not open for me - it said I did not have a Java script but I made sure Java was downloaded and that I had the newest version running). Even though I started to get the hang of how to do the work, if I am being completely honest I still am struggling to understand the final product. 
 
 Looking at the visualizations that I created in RStudio I have no clue what I am looking at. I am still working through understanding how a simple chart of senders and receivers has created such a complex plot. What I do understand is that little changes in the data can cause large changes in the plot. This comes back to the point about making assumptions.
+
+![image i just uploaded](RStudio.png)
+
+
