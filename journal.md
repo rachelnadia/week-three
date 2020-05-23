@@ -10,4 +10,4 @@ Barker created two visualizations which I will show below. In the one the blue d
 
 - The image on the left is without the stationers. THe image on the right shows the stationers in blue.
 
-But the processes of "soft history" begin way before this. Using REGEX in Sublime and Open Refine, I went through and tidied up the data.  
+The soft history started before I created any visualizations. Using REGEX in Sublime, and Open Refine, I went through and tidied up the data. This is where my assumptions (me being the digital historian) began. We wanted to look at letters and so we went on the assumption that all letters would have the word "to" in the line. But there is a chance that there was a letter that did not contain the word "to" in the line. Or that there was the word "to" in a line that was not a letter.  
