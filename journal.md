@@ -31,4 +31,4 @@ Looking at the visualizations that I created in RStudio I have no clue what I am
 
 ![image i just uploaded](RStudio.png)
 
-
+It is impossible to show all your work as a historian - digital or not. For example, in a history course I took last year, I wrote a paper dealing with a particular newspaper column. While I read dozens of these colums, I did not publish them all with my work (yes I cited them but not a single one was there for a full read). This is becasue it is again the argument of the historian that is to be brought out. The intention of this work is not to publish a primary source and let the general population make of it what they want - although, this is seemingly more popular with digital work. 
